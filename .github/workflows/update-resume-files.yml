@@ -24,12 +24,7 @@ jobs:
 
       - uses: docker://pandoc/latex:2.9
         with:
-          args: |
-            --output={GITHUB_WORKSPACE}/resume-brandon-beveridge.pdf  
-            -V fontsize=12pt 
-            -V geometry:margin=2cm 
-            -V mainfont="Noto Sans" 
-            ${GITHUB_WORKSPACE}/resume-brandon-beveridge.md
+          args: --output={GITHUB_WORKSPACE}/resume-brandon-beveridge.pdf -V fontsize=12pt -V geometry:margin=2cm -V mainfont="Noto Sans" ${GITHUB_WORKSPACE}/resume-brandon-beveridge.md
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
