@@ -24,7 +24,7 @@ jobs:
 
       - uses: docker://pandoc/latex:2.9
         with:
-          args: |> 
+          args: |
             --output={GITHUB_WORKSPACE}/resume-brandon-beveridge.pdf  
             -V fontsize=12pt 
             -V geometry:margin=2cm 
