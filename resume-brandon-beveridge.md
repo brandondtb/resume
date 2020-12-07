@@ -13,7 +13,7 @@ Python, JavaScript, TypeScript, Scala, Apache Airflow, Apache Flink, Akka, AWS, 
 
 ## Work Experience
 
-### Lead Engineer, Gourmet Growth, New York, NY
+### Staff Engineer, Gourmet Growth, New York, NY
 July 2019 - Present
 
 * Migrated infrastructure from Heroku to containers on GCP/GKE. Set up CI processes for code verification, build, and deployment.
