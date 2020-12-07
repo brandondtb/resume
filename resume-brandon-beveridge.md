@@ -2,10 +2,7 @@
 
 ### Software Engineer
 
-New York, NY | brandon@radiation.io
-
-
-I am a Lead/Senior Software engineer with a focus on distributed data engineering and cloud infrastructure. I am currently building data systems at [Gourmet Growth](http://www.gourmetgrowth.com). I have development experience throughout the stack.
+I am a Lead/Staff Software engineer with a focus on distributed data engineering and cloud infrastructure. I am currently building data systems at [Gourmet Growth](http://www.gourmetgrowth.com). I have development experience throughout the stack.
 
 
 ## Skills
