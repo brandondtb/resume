@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-I am a Lead/Staff Software engineer with a focus on distributed data engineering and cloud infrastructure. I am currently building data systems at [Gourmet Growth](http://www.gourmetgrowth.com). I have development experience throughout the stack.
+I am a Lead/Staff Software engineer with a focus on distributed data engineering and cloud infrastructure. I am currently building data systems at [Ampla](http://www.getampla.com). I have development experience throughout the stack.
 
 
 ## Skills
@@ -10,13 +10,13 @@ Python, JavaScript, TypeScript, Scala, Apache Airflow, Apache Flink, Akka, AWS, 
 
 ## Work Experience
 
-### Staff Engineer, Gourmet Growth, New York, NY
+### Staff Engineer, Ampla, New York, NY
 July 2019 - Present
 
 * Migrated infrastructure from Heroku to containers on GCP/GKE. Set up CI processes for code verification, build, and deployment.
 * Deployed Airflow to manage execution of data processes and manage dependencies between them.
 * Set up data infrastructure auto-scaling, which reduced infrastructure costs while allowing the business to handle a significant growth in its customer base.
-* Wrote the foundational pieces of Gourmet Growth's integration/ETL pipelines.
+* Wrote the foundational pieces of Ampla's integration/ETL pipelines.
 * Contributed to the development of the backend API and financial forecasting models.
 
 *Python, Django, Postgres, Airflow, GCP, Kubernetes, Docker*
